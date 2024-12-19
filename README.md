@@ -17,7 +17,7 @@ This project demonstrates an Autoencoder implemented in TensorFlow/Keras to remo
 
 1. Clone the repository:
     bash
-    git clone https://github.com/yourusername/autoencoder-image-denoising.git
+    git clone https://github.com/SripriyaJaju/Autoencoder_noisedImages.git
     cd autoencoder-image-denoising
     
 
